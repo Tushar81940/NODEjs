@@ -1,4 +1,3 @@
-//Debounce a function
 function debounce(func, delay) {
     let timeoutId;
     return function(...args) {
